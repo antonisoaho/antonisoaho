@@ -7,9 +7,8 @@
 </p>
 
 <ul>
-  <li>🔭 <b>Current Focus:</b> Developer at <b>Hogia</b>.</li>
+  <li>🔭 <b>Current Focus:</b> AI Prcoess & Change Lead at <b>Hogia</b>.</li>
   <li>🚀 <b>Founder:</b> Running <b>GoLife AB</b>, where I drive digital innovation and product development.</li>
-  <li>🌱 <b>Learning:</b> Deep diving into cloud-native architectures and modern frontend patterns.</li>
 </ul>
 
 <hr />
